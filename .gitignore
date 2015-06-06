@@ -4,4 +4,7 @@
 *.wma
 *.pdf
 *.jpg
+*.tif
+*.bak
+*.wav
 desktop.ini
