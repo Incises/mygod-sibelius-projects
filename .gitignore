@@ -2,7 +2,7 @@
 *.flac
 *.mp3
 *.wma
-*.pdf
+pdf
 *.jpg
 *.tif
 *.bak
