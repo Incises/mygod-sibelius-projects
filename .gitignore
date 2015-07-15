@@ -9,3 +9,5 @@ pdf
 *.wav
 desktop.ini
 *.mid
+*.exe
+Excluded
